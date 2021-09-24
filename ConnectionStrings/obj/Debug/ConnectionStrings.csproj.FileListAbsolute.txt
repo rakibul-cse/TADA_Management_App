@@ -1,0 +1,7 @@
+G:\New Project Task\TADA_App\ConnectionStrings\bin\Debug\ConnectionStrings.dll.config
+G:\New Project Task\TADA_App\ConnectionStrings\bin\Debug\ConnectionStrings.dll
+G:\New Project Task\TADA_App\ConnectionStrings\bin\Debug\ConnectionStrings.pdb
+G:\New Project Task\TADA_App\ConnectionStrings\obj\Debug\ConnectionStrings.csprojAssemblyReference.cache
+G:\New Project Task\TADA_App\ConnectionStrings\obj\Debug\ConnectionStrings.csproj.CoreCompileInputs.cache
+G:\New Project Task\TADA_App\ConnectionStrings\obj\Debug\ConnectionStrings.dll
+G:\New Project Task\TADA_App\ConnectionStrings\obj\Debug\ConnectionStrings.pdb

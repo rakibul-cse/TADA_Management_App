@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: TADARepositorys, Configuration: Debug Any CPU ------
+1>G:\New Project Task\TADA_App\TADARepositorys\DAL\TADAEntryDAL.cs(22,30,22,32): warning CS0168: The variable 'ex' is declared but never used
+1>G:\New Project Task\TADA_App\TADARepositorys\DAL\TADAEntryDAL.cs(37,30,37,32): warning CS0168: The variable 'ex' is declared but never used
+1>G:\New Project Task\TADA_App\TADARepositorys\DAL\TADAEntryDAL.cs(75,30,75,32): warning CS0168: The variable 'ex' is declared but never used
+1>  TADARepositorys -> G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\TADARepositorys.dll
+2>------ Build started: Project: TADA_App, Configuration: Debug Any CPU ------
+2>  TADA_App -> G:\New Project Task\TADA_App\TADA_App\bin\TADA_App.dll
+========== Build: 2 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

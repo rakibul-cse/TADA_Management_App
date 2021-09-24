@@ -1,0 +1,11 @@
+G:\New Project Task\TADA_App\TADARepositorys\obj\Debug\TADARepositorys.csprojAssemblyReference.cache
+G:\New Project Task\TADA_App\TADARepositorys\obj\Debug\TADARepositorys.csproj.CoreCompileInputs.cache
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\TADARepositorys.dll.config
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\TADARepositorys.dll
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\TADARepositorys.pdb
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\ConnectionStrings.dll
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\ConnectionStrings.pdb
+G:\New Project Task\TADA_App\TADARepositorys\bin\Debug\ConnectionStrings.dll.config
+G:\New Project Task\TADA_App\TADARepositorys\obj\Debug\TADARepositorys.csproj.CopyComplete
+G:\New Project Task\TADA_App\TADARepositorys\obj\Debug\TADARepositorys.dll
+G:\New Project Task\TADA_App\TADARepositorys\obj\Debug\TADARepositorys.pdb
